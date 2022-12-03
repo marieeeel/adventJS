@@ -1,4 +1,4 @@
-# Challenge #1: Automating Christmas gift wrapping!
+# ✨ Challenge #1: Automating Christmas gift wrapping!
 
 ## Instructions
 
