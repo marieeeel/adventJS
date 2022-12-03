@@ -1,3 +1,3 @@
 # ✨ adventJS 2022 
 
-Soluciones a los retos propuestos en [adventjs.dev](https://adventjs.dev) edición 2022
+Solutions to [adventjs.dev](https://adventjs.dev) 2022 edition
