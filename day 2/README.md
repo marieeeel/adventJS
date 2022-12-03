@@ -1,4 +1,4 @@
-# Challenge #2: Nobody wants to do extra hours at work
+# ✨ Challenge #2: Nobody wants to do extra hours at work
 
 ## Instructions
 
@@ -24,4 +24,4 @@ Things to keep in mind:
 
 * The year can be a leap year. Make the checks you need for it, if necessary.
 * Although the holiday is December 31, the extra hours will be done the same year.
-* Date.getDay() method returns the day of the week of a date. 0 is Sunday, 1 is Monday, etc.
+* `Date.getDay()` method returns the day of the week of a date. 0 is Sunday, 1 is Monday, etc.
