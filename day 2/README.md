@@ -1,4 +1,4 @@
-# Challenge #1: Automating Christmas gift wrapping!
+# Challenge #2: Nobody wants to do extra hours at work
 
 ## Instructions
 
