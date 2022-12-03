@@ -8,7 +8,7 @@ The machine receives an array of gifts. Each gift is a ```string```. We need the
 
 The wrapping paper is the * symbol, and in order to wrap a gift, you need to place it surrounding the string. For example:
 
-```
+```javascript
 const gifts = ['cat', 'game', 'socks']
 const wrapped = wrapping(gifts)
 
